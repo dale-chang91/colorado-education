@@ -1,0 +1,2 @@
+# Ignore files in python environment
+./middleware/.venv/**
